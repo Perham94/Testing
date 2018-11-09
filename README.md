@@ -7,3 +7,15 @@ TEST
 Chjun-chi
 
 Perham
+
+
+## Github code
+
+```
+git add remote origin url
+git pull
+gid add
+git commit
+git push
+
+```
