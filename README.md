@@ -12,7 +12,7 @@ Perham
 ## Github code
 
 ```
-git add remote origin url
+git remote add origin url
 git pull
 gid add
 git commit
